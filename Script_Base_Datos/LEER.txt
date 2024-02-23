@@ -1,0 +1,4 @@
+
+Puedes importar este script desde phpmyadmin o mysqlworkbench y te creará
+automáticamente la base de datos y la tabla con sus respectivas columnas 
+para que funcione la aplicación web.
